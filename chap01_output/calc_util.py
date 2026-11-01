@@ -1,8 +1,8 @@
 # FILE NAME - calc_util.py
 
 # NAME: Dominick Quartaro
-# DATE: 
-# BRIEF DESCRIPTION:  
+# DATE: November 1st, 2026 
+# BRIEF DESCRIPTION: Calc_Util_Py 
 
 
 
